@@ -6,5 +6,4 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   
   
-<a href="https://linkedin.com/in/ireem"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" width=35/></a>
-
+<a href="https://linkedin.com/in/ireem"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/A25kTXH.png"/></a>
