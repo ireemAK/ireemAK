@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=25A455&background=A5BFFF00&center=yanl%C4%B1%C5%9F&vCenter=yanl%C4%B1%C5%9F&lines=Hi+everyone%2C+my+name+is+%C4%B0rem+;Welcome+to+my+GitHub+profil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=E2213F&background=A5BFFF00&center=yanl%C4%B1%C5%9F&vCenter=yanl%C4%B1%C5%9F&lines=Hi+everyone%2C+my+name+is+%C4%B0rem+%F0%9F%91%8B;Welcome+to+my+GitHub+profil)](https://git.io/typing-svg)
