@@ -2,5 +2,5 @@
 
 
 
-
-<a href="https://www.linkedin.com/in/irem-akgeyik/"><img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"/></a>
+<a href="https://twitter.com/ir3myy"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
