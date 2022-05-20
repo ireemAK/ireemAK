@@ -5,4 +5,4 @@
 <a href="https://twitter.com/ir3myy"><img width="32px" alt="LinkedIn" title="Twitter" src="https://i.imgur.com/wBdMjyV.png"/></a>
   
   
-<a href="https://linkedin.com/in/ireem"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/A25kTXH.png"/></a>
+<a href="https://www.linkedin.com/in/irem-akgeyik/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/A25kTXH.png"/></a>
