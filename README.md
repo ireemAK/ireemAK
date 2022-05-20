@@ -4,3 +4,7 @@
 
 <a href="https://twitter.com/ir3myy"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  
+  
+<a href="https://linkedin.com/in/ireem"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" width=35/></a>
+
