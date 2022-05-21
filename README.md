@@ -5,3 +5,17 @@
   
   
 <a href="https://www.linkedin.com/in/irem-akgeyik/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/A25kTXH.png"/></a>
+
+
+
+
+
+   
+   
+   
+   
+
+
+
+
+![snake gif](https://github.com/ireemAK/ireemAK/blob/output/github-contribution-grid-snake.gif) 
