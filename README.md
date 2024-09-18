@@ -10,10 +10,12 @@ Connect with me:
   
 <a href="https://www.linkedin.com/in/irem-akgeyik/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/A25kTXH.png"/></a>
 
+<a href="https://iremakgeyik.com.tr/"><img width="32px" alt="Web Site" title="Web Site" src=""/></a>
 
 
 
 
+https://iremakgeyik.com.tr/
 <a href="https://medium.com/@ireemmy"><img width="32px" alt="Medium" title="Medium" src="https://miro.medium.com/max/2400/1*6_fgYnisCa9V21mymySIvA.png"/></a>
 
 
