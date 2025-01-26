@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&color=C40612&center=YANLI%C5%9E&vCenter=YANLI%C5%9E&repeat=do%C4%9Fru&random=YANLI%C5%9E&width=435&lines=Hello+everyone%2C+my+name+is+Irem+;Welcome+to+my+GitHub+profile;I'm+a+level+23++web+developer+student++;Here+I'm+sharing+what+I+have+learned)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1800&pause=1000&color=D11126&center=YANLI%C5%9E&vCenter=YANLI%C5%9E&repeat=do%C4%9Fru&random=YANLI%C5%9E&width=435&lines=Hello+everyone+%2C+my+name+is+Irem+;Welcome+to+my+Github+profile+;Here+I'm+sharing+what+I+have+learned+)](https://git.io/typing-svg)
 Connect with me:
 
 
